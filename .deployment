@@ -1,3 +1,2 @@
 [config]
-command = src/home.mosbd.com/home.mosbd.com.csproj
-
+project = src/home.mosbd.com/home.mosbd.com.csproj
